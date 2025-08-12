@@ -2,17 +2,16 @@
 
 🎓 I'm a mechatronics engineering student passionate about **bridging software and hardware** to create meaningful and intelligent systems.
 
-🌸 Currently exploring:
-- 🤖 Robotics & embedded systems
-- 📊 Python libraries for control & visualization (NumPy, Matplotlib, SciPy)
-- 💻 MATLAB for signal processing and system modeling
-- 📄 LaTeX for professional reports and circuit documentation
-- 💡 C/C++ for efficient, low-level programming and control logic
+🌸 About me
+- I build systems that blend hardware and software: working with microcontrollers, sensors, actuators, and computer vision.
+- I teach robotics and coding using Arduino, Python, C++, Mechanics & Blocks, and block-based programming for younger learners.
+
+🛠 Tech I Work With
+Python | C++ | Java | MATLAB | Assembly | Arduino | Raspberry Pi | Computer Vision | Electronics
 
 🩷 Goals for 2025:
 - Build and document robotics + embedded systems projects
-- Learn by doing and contribute to impactful tech
-- Strengthen my portfolio for internships & research opportunities
+- Take internship & research opportunities
 
 ✨ Let’s connect!
 
