@@ -6,7 +6,7 @@
 - I build systems that blend hardware and software: working with microcontrollers, sensors, actuators, and computer vision.
 - I teach robotics and coding using Arduino, Python, C++, Mechanics & Blocks, and block-based programming for younger learners.
 
-🛠 Tech I Work With
+🛠 I Work With
 - Python | C++ | Java | MATLAB | Assembly | Arduino | Raspberry Pi | Computer Vision | Electronics
 
 🩷 Goals for 2025:
